@@ -23,4 +23,4 @@ with st.form("my_form"):
     if submitted and openai_api_key.startswith("sk-"): # If the submit button is clicked and the API key is valid
         response(text) # Call the response function
 
-st.markdown("Made with ❤️ by [Seher Kumsar](https://https://github.com/SeherKumsar)") # Display text in markdown format
+st.markdown("Made with ❤️ by [Seher Kumsar](https://github.com/SeherKumsar)") # Display text in markdown format
